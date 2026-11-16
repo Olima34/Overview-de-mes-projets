@@ -2,7 +2,7 @@
 
 > Les outils que j'ai construits avec l'IA, surtout avec Claude Code : d'abord pour le cabinet de gestion de patrimoine où j'ai fait mon stage, puis pour mes études, mon association et mon propre Mac.
 
-Je suis Vianney Dubosc, étudiant en L3 Économie-Finance à la FGES (Lille), en Erasmus à Valence. Je ne suis pas ingénieur : j'ai appris à construire des logiciels par passion, avec l'IA. Ma méthode ne change pas d'un projet à l'autre : je décris le besoin et les règles, Claude Code écrit le code, et je vérifie chaque résultat sur de vrais cas avant de m'en servir.
+Je suis Vianney Dubosc, étudiant en L3 Économie-Finance à la FGES (Lille), en Erasmus à Valence. J'ai appris à construire des logiciels par passion, avec l'IA. Ma méthode ne change pas d'un projet à l'autre : je décris le besoin et les règles, Claude Code écrit le code, et je vérifie chaque résultat sur de vrais cas avant de m'en servir.
 
 Chaque projet a sa fiche courte : le problème, ce que fait l'outil, trois ou quatre captures, et comment je l'ai construit.
 
