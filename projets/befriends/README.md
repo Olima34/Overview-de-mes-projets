@@ -26,4 +26,4 @@ Captures du simulateur iOS avec des données fictives : le Bluetooth n'y fonctio
 ## Comment je l'ai construit
 Je l'ai construit avec Claude Code : je décris le besoin et les règles, Claude Code écrit le code, et je vérifie le résultat ; le test exige deux vrais iPhone. Le plus difficile a été tout ce qu'iOS fait dans le dos de l'app : veille, minuteries gelées, adresse Bluetooth changée environ toutes les 15 minutes. L'app tolère donc 15 minutes de coupure avant de clore une session. L'ensemble fait environ 2 800 lignes de Swift ; j'en retiens qu'une idée simple à décrire demande beaucoup de règles précises dès que le matériel et le système s'en mêlent.
 
-**Code source** : https://github.com/Olima34/BeFriends — la branche principale a été vidée depuis ; le code complet se trouve dans l'historique, au commit [`d334024`](https://github.com/Olima34/BeFriends/tree/d334024) du 19 mars 2026.
+**Code source** : https://github.com/Olima34/BeFriends — la branche principale a été vidée depuis ; le code complet se trouve dans l'historique, au commit [`7eb6f99`](https://github.com/Olima34/BeFriends/tree/7eb6f99) du 19 mars 2026.
