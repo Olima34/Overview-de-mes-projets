@@ -27,7 +27,7 @@ La fiche client était éclatée en 9 onglets et alertes et tâches vivaient dan
 Toutes les données affichées sont fictives.
 
 ## Comment je l'ai construit
-Avec Claude Code : je décris l'écran et les règles du métier, il écrit la maquette, je vérifie et je tranche. Chaque série commence par un plan écrit, appuyé sur les textes (ACPR, AMF, CNIL) : j'y ai appris qu'un contrat d'assurance vie sans opération depuis 4 ans doit être actualisé. La plupart des maquettes ont ensuite été codées (une vingtaine de pull requests) et déployées sur un serveur de test. Leçon : une maquette peut se tromper ; deux fois, elle présentait comme nouvelle une fonction déjà existante.
+Avec Claude Code : je décris l'écran et les règles du métier, il écrit la maquette, je vérifie et je tranche. Chaque série commence par un plan écrit, appuyé sur les textes (ACPR, AMF, CNIL) : j'y ai appris que, pour un contrat d'assurance vie sans opération, la connaissance du client doit être actualisée au bout de 4 ans, ou de 2 ans s'il a reçu une recommandation personnalisée. La plupart des maquettes ont ensuite été codées (une soixantaine de pull requests) et déployées sur un serveur de test, pas encore en production. Leçon : une maquette peut se tromper ; deux fois, elle présentait comme nouvelle une fonction déjà existante.
 
 ## Le lien avec Charlie
 Ces écrans portent sur des tâches qu'un cabinet veut alléger : tenir le dossier à jour, relancer, préparer les rapports.

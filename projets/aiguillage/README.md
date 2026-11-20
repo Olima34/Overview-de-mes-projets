@@ -29,11 +29,11 @@ Par habitude, je mettais tout au maximum : sur 1 665 demandes, 91 % étaient par
 Historique rejoué, face à mon habitude (83 % de réussite estimée sur les 560 tâches difficiles) :
 - **Le gros du gain tient dans un réglage** : Opus en medium partout, −33,7 %, mais 75 % sur le difficile. Un choix par session (le lanceur) fait jeu égal : −32,6 % et 76 %.
 - **Un choix revu à chaque demande** : −32,6 % et 82 %. C'est la suite à construire.
-- **Qwen trie, il ne remplace pas Claude** : sa réponse suffisait dans 42 % des cas, celle de Claude dans 100 %.
+- **Qwen trie, il ne remplace pas Claude** : sa réponse suffisait dans 42 % des cas, celle de Claude dans 100 % (33 tâches, jugées par Claude).
 
 Limites : réussites estimées, pas observées, et un seul historique, le mien.
 
 ## Comment je l'ai construit
-En un week-end avec Claude Code : je décris, il code, je vérifie. Le cœur vient de Fil. Une contrainte a tout décidé : un hook de Claude Code ne peut pas changer de modèle, donc le choix se fait au lancement. Leçon : mesurer avant d'affirmer. Environ 5 800 lignes, 93 tests.
+En un week-end avec Claude Code : je décris, il code, je vérifie. Le cœur vient de Fil. Une contrainte a tout décidé : un hook de Claude Code ne peut pas changer de modèle, donc le choix se fait au lancement. Leçon : mesurer avant d'affirmer. Environ 6 700 lignes de TypeScript, dont 1 450 d'exemples étiquetés, et 93 tests.
 
 Code privé, démo possible sur demande.
